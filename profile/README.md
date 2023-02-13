@@ -1,4 +1,4 @@
-![imaginax logo](imaginaxLogo.png)
+![imaginax logo](./imaginaxLogo.png)
 
 # Welcome to Imaginax
 ---
