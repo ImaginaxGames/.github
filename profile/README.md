@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/imaginaxgames/.github/main/profile/imaginaxLogo.png" alt="drawing" width="400"/>
+<img src="https://raw.githubusercontent.com/imaginaxgames/.github/main/profile/imaginaxLogo.png" alt="drawing" width="900"/>
 
 # Welcome to Imaginax
 ---
