@@ -1,4 +1,4 @@
-![imaginax logo](./imaginaxLogo.png)
+<img src="https://raw.githubusercontent.com/imaginaxgames/.github/main/profile/imaginaxLogo.png" alt="drawing" width="400"/>
 
 # Welcome to Imaginax
 ---
