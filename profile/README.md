@@ -1,13 +1,11 @@
-<img src="https://raw.githubusercontent.com/imaginaxgames/.github/main/profile/imaginaxLogo.png" alt="drawing" width="900"/>
-
-# Welcome to Imaginax
+# Welcome to Sudo Roblox Labs
 ---
 
 We create immersive experiences on the ROBLOX platform made to ignite imagination on those who play it.
 
-You can find OSS projects and other resources on the Imaginax GitHub.
+You can find OSS projects and other resources on the Sudo Labs GitHub.
 
-## Want to work at Imaginax?
+## Want to work at Sudo Roblox Labs?
 
-*We are working on opening position at Imaginax in the near future*
+*We are working on opening positions at Sudo Roblox Labs in the near future*
 
